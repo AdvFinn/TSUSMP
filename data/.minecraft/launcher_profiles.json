@@ -16,13 +16,13 @@
       "name" : "",
       "type" : "latest-release"
     },
-    "fabric-loader-1.19.3" : {
+    "fabric-loader-1.20.1" : {
       "created" : "2023-04-04T16:27:38-0500",
       "icon" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAGFBMVEUAAAA4NCrb0LTGvKW8spyAem2uppSakn5SsnMLAAAAAXRSTlMAQObYZgAAAJ5JREFUaIHt1MENgCAMRmFWYAVXcAVXcAVXcH3bhCYNkYjcKO8dSf7v1JASUWdZAlgb0PEmDSMAYYBdGkYApgf8ER3SbwRgesAf0BACMD1gB6S9IbkEEBfwY49oNj4lgLhA64C0o9R9RABTAvp4SX5kB2TA5y8EEAK4pRrxB9QcA4QBWkj3GCAMUCO/xwBhAI/kEsCagCHDY4AwAC3VA6t4zTAMj0OJAAAAAElFTkSuQmCC",
       "javaArgs" : "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "lastUsed" : "2023-04-04T16:27:38-0500",
-      "lastVersionId" : "fabric-loader-0.14.19-1.19.3",
-      "name" : "fabric-loader-1.19.3",
+      "lastVersionId" : "fabric-loader-0.14.19-1.20.1",
+      "name" : "TSUSMP Pack",
       "type" : "custom"
     }
   },
