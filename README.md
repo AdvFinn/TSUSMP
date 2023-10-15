@@ -11,8 +11,8 @@ The server does have some mods that can work with the client as well!
 The list of compatible mods:
 
 
-- JourneyMap
-- Xaero's Minimap & World Map
-- EMI
-- REI
+- JourneyMap - 5.9.15
+- Xaero's Minimap (23.8.3) & World Map (1.35.0)
+- EMI - 1.0.22
+- REI - 12.0.665
 
