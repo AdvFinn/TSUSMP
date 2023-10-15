@@ -11,7 +11,8 @@ The server does have some mods that can work with the client as well!
 The list of compatible mods:
 
 
- ...as of right now, there is none... yet... 
-    you can ask the server owner to add support like
-    Maps & Waypoint saving, AppleSkin, etc. 
+- JourneyMap
+- Xaero's Minimap & World Map
+- EMI
+- REI
 
