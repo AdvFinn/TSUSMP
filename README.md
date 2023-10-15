@@ -15,4 +15,4 @@ The list of compatible mods:
 - Xaero's Minimap (23.8.3) & World Map (1.35.0)
 - EMI - 1.0.22
 - REI - 12.0.665
-
+- WTHIT - 8.4.0
