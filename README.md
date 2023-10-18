@@ -11,7 +11,7 @@ The server does have some mods that can work with the client as well!
 The list of compatible mods:
 
 
-- JourneyMap
+- JourneyMap (Packaged)
 - Xaero's Minimap & World Map
 - EMI - 1.0.22
 - REI - 12.0.665
