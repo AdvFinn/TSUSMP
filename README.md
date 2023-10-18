@@ -13,6 +13,6 @@ The list of compatible mods:
 
 - JourneyMap (Packaged)
 - Xaero's Minimap & World Map
-- EMI - 1.0.22
+- EMI - 1.0.22 (Packaged)
 - REI - 12.0.665
-- WTHIT - 8.4.0
+- WTHIT - 8.4.0 (Packaged)
